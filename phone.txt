@@ -4,4 +4,7 @@ touchscreen
 gorilla-glass
 apple-iphone
 
+learning from coding ninjas
+
+common lets fly high
 learning
